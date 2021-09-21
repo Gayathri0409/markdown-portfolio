@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Welcome to Github Markdown*
+
+
+**Welcome to Github Markdown**
+
+
+_Welcome to **Github Markdown**_
